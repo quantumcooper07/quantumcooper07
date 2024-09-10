@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on FULL STACK projects<br>🤝 I’m looking for help with Quantum Computing and Competitive Programming<br>🌱 I’m currently learning Competitive Programing and Web Development
+🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on FULL STACK projects<br>🤝 I’m looking for help with Quantum Computing and Competitive Programming<br>🌱 I’m currently learning Competitive Programing and DSA
 
 
 ## 🌐 Socials:
